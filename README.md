@@ -2,9 +2,9 @@ This project automates the build, test, and deployment pipeline for Java applica
 
 Pipeline Stages:
 
-. Build: Jenkins triggers Maven to compile the code and run tests.
-. Test: Maven executes unit and integration tests, with Jenkins capturing the results.
-. Package and Containerize: Jenkins uses Docker to build an image of the packaged application.
-. Deploy: Jenkins pushes the Docker image to a container registry and/or deploys it to a testing/staging environment.
+1. Build: Jenkins triggers Maven to compile the code and run tests.
+2. Test: Maven executes unit and integration tests, with Jenkins capturing the results.
+3. Package and Containerize: Jenkins uses Docker to build an image of the packaged application.
+4. Deploy: Jenkins pushes the Docker image to a container registry and/or deploys it to a testing/staging environment.
 
 
