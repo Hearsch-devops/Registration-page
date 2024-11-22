@@ -1,4 +1,5 @@
-This project automates the build, test, and deployment pipeline for Java applications using Jenkins (Continuous Integration and Deployment), Maven (Build Tool), and Docker (Containerization). The setup enables efficient CI/CD practices, ensuring code quality and rapid deployment.
+This project automates the build, test, and deployment pipeline for Java applications using Jenkins (Continuous Integration and Deployment), Maven (Build Tool), and Docker (Containerization). 
+The setup enables efficient CI/CD practices, ensuring code quality and rapid deployment.
 
 Pipeline Stages:
 
